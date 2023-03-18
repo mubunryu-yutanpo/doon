@@ -37,5 +37,3 @@ Route::group(['middleware'=> 'auth'], function(){
     Route::post('/{id}/withdraw', 'MypageController@withdrawal')->name('withdraw');
 });
 
-URL::forceScheme('https');
-
