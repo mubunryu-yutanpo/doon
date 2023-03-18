@@ -42,7 +42,7 @@
         <div class="p_welcome-content">
           <h3 class="p_welcome-content-title">クイズをプレイしよう!</h3>
           <a href="{{ route('index') }}" class="p_welcome-content-start">
-            <button class="p_welcome-content-start-btn">
+            <button class="p_welcome-content-start-btn" style="white-space:nowrap;">
               どうおんをはじめる
             </button>
           </a>
