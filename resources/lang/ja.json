@@ -1,0 +1,25 @@
+{
+    "Login": "ログイン",
+    "Register": "登録",
+    "Home": "トップ",
+    "Name": "名前",
+    "E-Mail Address": "メールアドレス",
+    "Password": "パスワード",
+    "Remember Me": "ログインを維持する",
+    "Forgot Your Password?": "パスワードを忘れた場合はこちら",
+    "Finished": "完了",
+    "Go Delete": "削除",
+    "The comment may not be greater than 255 characters.": "255文字以内で入力してください",
+    "Confirm Password": "パスワード再入力",
+    "registered!": "登録しました！",
+    "Deleted": "削除しました",
+    "Invalid operation was performed": "不正な操作です",
+    "The password must be at least 8 characters.": "半角英数字8文字以上で入力してください",
+    "The password confirmation does not match.": "パスワードが一致しません",
+    "Send Password Reset Link": "パスワードを再発行する",
+    "Reset Password": "パスワード再発行",
+    "Logined!": "ログインしました！",
+    "Logout!": "ログアウトしました！",
+    "welcome!": "どうおんへようこそ！"
+    
+}
