@@ -20,6 +20,8 @@
     "Reset Password": "パスワード再発行",
     "Logined!": "ログインしました！",
     "Logout!": "ログアウトしました！",
-    "welcome!": "どうおんへようこそ！!"
+    "welcome!": "どうおんへようこそ！!",
+    "You are receiving this email because we received a password reset request for your account.": "このメールは「どうおん」のパスワードをリセットする目的で送信しています。",
+    "This password reset link will expire in 60 minutes.": "パスワードを再設定する場合は上のリンクをクリックしてください。（有効期限は60分です）"
     
 }
