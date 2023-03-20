@@ -23,7 +23,7 @@
           <i class="fa-regular fa-circle" v-if="correctFlg"></i>
           {{ result }}
         </h3>
-        <p class="">正解： {{ choices.correct }}</p>
+        <p class="c_content-card-answered-title">正解： {{ problems[this.num - 1].correct }}</p>
         <p class="c_content-card-answered-title">解説：</p>
         <p class="c_content-card-answered-comment">{{ problemsComment }}</p>
         <div class="u_ta-center">
