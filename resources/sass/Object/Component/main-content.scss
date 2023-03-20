@@ -111,12 +111,15 @@
             }
         }
         &-finished{
+            background: #fff;
+            border-radius: $space-10;
             font-size: $font-size_l;
             width: 90%;
             margin: $space_20 auto;
+            padding-bottom: $space_20;
             &-result{
                 background-color: $light-green;
-                border-radius: 5px;
+                border-radius: $space-10 $space-10 0 0;
                 padding: $space_default;
                 &-text{
                     color: $red;
@@ -125,10 +128,11 @@
                 }
             }
             &-next{
+                background-color: #fff;
                 display: flex;
                 flex-direction: column;
                 width: 90%;
-                margin: $space_30 auto 0;
+                margin: $space_30 auto;
                 &-link{
                     background-color: $red;
                     border-radius: 10px;
