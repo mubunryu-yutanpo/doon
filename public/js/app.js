@@ -2046,7 +2046,7 @@ var render = function render() {
     staticClass: "fa-solid fa-xmark"
   }) : _vm._e(), _vm._v(" "), _vm.correctFlg ? _c("i", {
     staticClass: "fa-regular fa-circle"
-  }) : _vm._e(), _vm._v("\n          " + _vm._s(_vm.result) + "\n        ")]), _vm._v(" "), _c("p", {
+  }) : _vm._e(), _vm._v("\n          " + _vm._s(_vm.result) + "\n        ")]), _vm._v(" "), _c("p", {}, [_vm._v("正解： " + _vm._s(_vm.choices.correct))]), _vm._v(" "), _c("p", {
     staticClass: "c_content-card-answered-title"
   }, [_vm._v("解説：")]), _vm._v(" "), _c("p", {
     staticClass: "c_content-card-answered-comment"
